@@ -30,8 +30,8 @@ void sort(int scores[], int size){
 
 
 int main(){
-    const int size = 5;
-    int scores[size] = {0, 60, 70, 100, 90};
+    const int size = 6;
+    int scores[size] = {0, 60, 70, 100, 90,80};
 
     sort(scores, size);
     
